@@ -1,0 +1,8 @@
+db.students.insert({
+      PrnNumber:1234,
+      Name: "Tejas Bisen",
+      Class: "BE 4 ",
+      City:" Gondia",
+      Profile_Photo:"",
+      PhoneNumber:9834339517
+})
